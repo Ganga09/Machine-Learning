@@ -1,5 +1,4 @@
-# Machine-Learning
-# ***Machine learning: Intro***
+# ***Machine learning: Introduction***
 
 
 We train machine using a dataset.
