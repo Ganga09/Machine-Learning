@@ -137,14 +137,18 @@ from sklearn.preprocessing import StandardScaler
   * print("accuracy=:",score*100)
 
 ***Accuracy score:  TP+TN/TP+TN+FP+FN***
+
 2. Recall : give importance to FN False negative. FN is when a positive or 1 is predicted as negative or 0
 ***Recall:  TP/TP+FN***
+   
 
-3. Precision:Focus on FP
+4. Precision:Focus on FP
 ***Precision:  TP/TP+FP***
+   
 
-4. F1_score:
+6. F1_score:
 ***F1:  2x (recall+precision)/(recall+Precision)***
+   
 
  When the given data is a balanced data then we can relay on accuracy score. If the data is imbalanced then we should not soley rely on accuracy score.
  when the target labes have a huge diffrence in number the data is called an imbalanced data.
