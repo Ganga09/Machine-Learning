@@ -147,7 +147,7 @@ from sklearn.preprocessing import StandardScaler
    
 
 6. F1_score:
-***F1:  2x (recall+precision)/(recall+Precision)***
+***F1:  2x (recall*precision)/(recall+Precision)***
    
 
  When the given data is a balanced data then we can relay on accuracy score. If the data is imbalanced then we should not soley rely on accuracy score.
