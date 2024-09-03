@@ -1,5 +1,9 @@
+Mushroom Classification
+![mushroom](https://github.com/user-attachments/assets/2a418616-add8-4c5f-891a-da921382a4e4)
+
 Mushroom Classification to poisonous and edible based on attributes such as cap shape, odor, cap color, ring type, habitat, etc.
 Data cleaning, handling, and EDA are done before classification.
+
 
 Dataset: Kaggle: https://www.kaggle.com/datasets/uciml/mushroom-classification
 
